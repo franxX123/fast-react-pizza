@@ -1,5 +1,5 @@
-# fast-react-pizza
-Fast React Pizza is a pizza delivery service that leverages JavaScript and other popular web technologies such as React framework, Redux Toolkit (global UI state management), Tailwind (styling), and React-Router (routing and API request).
+# Frank's Pizzarie
+Frank's Pizzarie is a pizza delivery service that leverages JavaScript and other popular web technologies such as React framework, Redux Toolkit (global UI state management), Tailwind (styling), and React-Router (routing and API request).
 
 To run this project in your machine, please do the following:
   
